@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# List of my favorite things.
+- cooking. 
+- trekking
+- choclates
+- icecreams
